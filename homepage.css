@@ -1,0 +1,80 @@
+/* The Navigational overriding of bootstrap*/
+#img{
+    height: 90px;
+}
+
+#mynav{
+
+}
+
+#mynav .nav-item a{
+    color: aliceblue;
+}
+
+#mynav .nav-item a:hover{
+    color:rgb(79, 30, 226);
+    text-decoration: underline;
+    text-decoration-color: rgb(79, 30, 226);
+    transition: ease-in 0.5ms;
+}
+
+#collapsible  {
+
+  margin-left: 30vw;
+}
+#collapsible ul li a {
+    text-indent: 10px;
+    font-size: 20px;
+}
+
+#social{
+    float: right;
+}
+/* The End of Navigational overriding of bootstrap*/
+/* The slidng images section*/
+#img1{
+    height: 500px;
+    width: 100%;
+    display: block;
+}
+/* The firstlayer section*/
+#firstwords h1{
+   color: blue;
+   text-align: center;
+   font-size: 60px;
+}
+#firstwords p{
+    text-align: center;
+    font-size: 30px;
+}
+#firstwords button{
+    margin-left: 45vw;
+}
+#btn1{
+    margin-left: 45%;
+}
+
+
+/* The Profit section*/
+#profit-image{
+    
+}
+#form{
+   
+}
+
+#sec{
+    background-image: url('https://thumbs.dreamstime.com/b/cryptocurrency-physical-golden-bitcoin-coin-colorful-background-photo-92509793.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+
+    
+}
+
+
+/* The footer*/
+footer{
+    
+    background-color: gray;
+    height: 15vh;
+}

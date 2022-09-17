@@ -1,0 +1,39 @@
+#img{
+    height: 90px;
+}
+
+#mynav{
+
+}
+
+#mynav .nav-item a{
+    color: aliceblue;
+}
+
+#mynav .nav-item a:hover{
+    color:red;
+    text-decoration: underline;
+    text-decoration-color: red;
+    transition: ease-in 0.5ms;
+}
+
+#collapsible  {
+
+    margin-left: 30vw;
+  }
+  #collapsible ul li a {
+      text-indent: 10px;
+      font-size: 20px;
+  }
+  
+  #social{
+      float: right;
+  }
+  
+  footer{
+    background-color: grey;
+    height: 75px;
+    position: relative;
+    bottom: -45vh;
+    width:100%;
+}

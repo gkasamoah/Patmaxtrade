@@ -1,0 +1,12 @@
+#img{
+    height: 90px;
+}
+#contact{
+    height: 30vh;
+    background-image: linear-gradient(to right, rgb(84, 84, 165), rgb(27, 157, 122));
+}
+footer{
+        background-color: grey;
+        height: 75px;
+        margin-top: 15px;
+    }
